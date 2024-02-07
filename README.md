@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @Liemani
 - 👀 I’m interested in swift
-- 🌱 I'm  currently working in human resource training company as intern(It's been 4 months)
-  - salary : 1.75million won/month(approximately 1300 dollars per month)
+- 🌱 I'm  currently working in human resource training company(from 2023-09)
+  - salary : 2.3million won/month(approximately 1700 dollars per month)
   - working hours : 40h/week
 - 🌱 I will make korean compiler someday
 <!--- 💞️ I’m looking to collaborate on ... --->
